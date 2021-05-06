@@ -2,4 +2,4 @@
 
 ###### Testing external contributors
 
-#### External contributor: Minjae Oh
+###### External contributor: Minjae Oh
